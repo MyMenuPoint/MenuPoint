@@ -1,0 +1,15 @@
+.footer {
+  width: 100%;
+  padding: 14px 0;
+  background: linear-gradient(to right, #6b0f1a, #c0392b, #e67e22, #f1c40f);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer__text {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
